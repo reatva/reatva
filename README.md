@@ -44,3 +44,18 @@
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Cloud Intrusion Lab</h3>
+<div align="center">                                       
+<a href="https://reatva.github.io/portfolio/projects/cloudlab/" target="_blank"><img src="https://reatva.github.io/images/posts/awsbg.webp" width="400" alt="Custom Cloud Lab"></a>
+<br>
+<p>
+<a href="https://reatva.github.io/portfolio/projects/cloudlab/" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
+</p>
+</p>This lab focuses on exploiting misconfigurations and weak access controls in a cloud-based web environment to escalate from external discovery to full AWS administrative compromise. It demonstrates how attackers can leverage exposed cloud storage, poor credential hygiene, and insecure CI/CD pipelines to gain unauthorized access and persist within a target’s infrastructure.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
