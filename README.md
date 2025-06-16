@@ -7,7 +7,7 @@
 ✏️ Self taugh Cybersecurity student: Red and Blue team
 💻 CTF player (HacktTheBox & ProvingGrounds)
 📚 Constantly learning to keep developing my skills
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://bit.ly/CV_AdrianReatva" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1KL4CLDTVpKeTdIeyGsyFH1PY7w2fWWIe/edit?usp=sharing&ouid=109914615350236433443&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 </pre>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Certificates**
 - [Offenive Security Certified Professional (OSCP/OSCP+)](https://credentials.offsec.com/6826491e-6fae-4696-8ede-b667f788bd63#acc.PAwkzUyR)
