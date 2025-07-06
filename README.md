@@ -34,28 +34,42 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Custom vulnerable Active Directory Environment</h3>
+<h3 align="center">Vulnerable Active Directory Lab</h3>
 <div align="center">
 <a href="https://github.com/reatva/Vulnerable-Active-Directory-Lab" target="_blank"><img src="https://reatva.github.io/images/projects/adlab51.jpg" width="400" alt="Custom vulnerable ACtive Directory Environment"></a>
 <p>
 <a href="https://github.com/reatva/Vulnerable-Active-Directory-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
 </p>
-<p><strong>Custom-built vulnerable Active Directory environment</strong> designed to simulate a full attack chain. The lab includes <strong>intensional misconfigurations</strong> such as an exposed SMB share with users files, users accounts that are <strong>AS-REP roastable and Kerberoastable</strong>, and privilege escalation paths that allow password changes for a privilege user. Exploiting these weaknesses step-by-step leads to a successful <strong>DCSync attack</strong> and full domain compromise.</p>
+<p>A professionally structured Active Directory (AD) lab environment designed for hands-on learning and security testing. This lab simulates common real-world misconfigurations and vulnerabilities found in enterprise Windows domains, making it ideal for red team training, blue team defense, and purple team analysis.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Cloud Intrusion Lab</h3>
+<h3 align="center">Weaponized Installer Lab</h3>
 <div align="center">                                       
-<a href="https://reatva.github.io/portfolio/projects/cloudlab/" target="_blank"><img src="https://reatva.github.io/images/posts/awsbg.webp" width="400" alt="Custom Cloud Lab"></a>
+<a href="https://github.com/reatva/Weaponized-Installer-Lab" target="_blank"><img src="https://reatva.github.io/images/posts/weaponized_bg.webp" width="400" alt="Weaponized Installer Lab"></a>
 <br>
 <p>
-<a href="https://reatva.github.io/portfolio/projects/cloudlab/" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
+<a href="https://github.com/reatva/Weaponized-Installer-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
 </p>
-</p>This lab focuses on exploiting misconfigurations and weak access controls in a cloud-based web environment to escalate from external discovery to full AWS administrative compromise. It demonstrates how attackers can leverage exposed cloud storage, poor credential hygiene, and insecure CI/CD pipelines to gain unauthorized access and persist within a target’s infrastructure.</p>
+</p>This Project simulates a read team scenario where a legitimate installer is modified to carry a stealth payload. The goal is to demonstrate payload delivery via social engineering, without raising antivirus alarms. This lab is ideal for red team training, blue team defense, and purple team analysis.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Vulnerability-Management-Lab</h3>
+<div align="center">
+<a href="https://github.com/reatva/Vulnerability-Management-Lab" target="_blank"><img src="https://reatva.github.io/images/posts/vulnerability.jpeg" width="400" alt="Vulnerability Management Lab"></a>
+<p>
+<a href="https://github.com/reatva/Vulnerability-Management-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
+</p>
+<p>Vulnerability Management Lab is a hands-on project that simulates a real-world vulnerability management workflow within a Windows domain environment. Utilizing open-source tools and manual patching techniques, this lab demonstrates the process of identifying, prioritizing, remediating, and validating vulnerabilities.</p>
+</div>
+                                                                                      
+</td>       
