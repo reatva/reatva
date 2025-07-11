@@ -73,3 +73,18 @@
 </div>
                                                                                       
 </td>       
+
+<td width="50%">
+               <br>
+<h3 align="center">Weaponized Installer Lab</h3>
+<div align="center">                                       
+<a href="https://github.com/reatva/Threat-Hunting-Incident-Response-Lab" target="_blank"><img src="https://reatva.github.io/images/projects/threathunting.jpeg" width="400" alt="Weaponized Installer Lab"></a>
+<br>
+<p>
+<a href="https://github.com/reatva/Threat-Hunting-Incident-Response-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
+</p>
+</p>This Project simulates a read team scenario where a legitimate installer is modified to carry a stealth payload. The goal is to demonstrate payload delivery via social engineering, without raising antivirus alarms. This lab is ideal for red team training, blue team defense, and purple team analysis.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
