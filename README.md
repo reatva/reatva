@@ -3,7 +3,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Who am I?**
 <pre>
 ⚡ OSCP/OSCP+ Certified Professional
-🔭 CompTIA Security+
+🔭 CWES/CBBH
 ✏️ Self taugh Cybersecurity student: Red and Blue team
 💻 CTF player (HacktTheBox & ProvingGrounds)
 📚 Constantly learning to keep developing my skills
@@ -11,6 +11,7 @@
 </pre>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Certificates**
 - [Offenive Security Certified Professional (OSCP/OSCP+)](https://credentials.offsec.com/6826491e-6fae-4696-8ede-b667f788bd63#acc.PAwkzUyR)
+- [Certified Web Exploitation Specialist (CWES/CBBH)](https://www.credly.com/badges/c795f7e0-5baa-4ed8-9a0e-1eb02326ed13)
 - [CompTIA Security+](https://www.credly.com/badges/e9b7d05e-1172-4259-b55c-f7bb640d6f89/linked_in_profile)
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/2W3TEQHZKWD9)
 
