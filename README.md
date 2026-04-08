@@ -7,9 +7,10 @@
 ✏️ Self taugh Cybersecurity student: Red and Blue team
 💻 CTF player (HacktTheBox & ProvingGrounds)
 📚 Constantly learning to keep developing my skills
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1KL4CLDTVpKeTdIeyGsyFH1PY7w2fWWIe/edit?usp=sharing&ouid=109914615350236433443&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1xk95jx3UIlhH2RJpX04pe055eFoX8dN7yig1773w8WI/edit?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Certificates**
+- [Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/1004bdad-589d-4ac9-924e-0a8551eed447/public_url)
 - [Offenive Security Certified Professional (OSCP/OSCP+)](https://credentials.offsec.com/6826491e-6fae-4696-8ede-b667f788bd63#acc.PAwkzUyR)
 - [Certified Web Exploitation Specialist (CWES/CBBH)](https://www.credly.com/badges/c795f7e0-5baa-4ed8-9a0e-1eb02326ed13)
 - [CompTIA Security+](https://www.credly.com/badges/e9b7d05e-1172-4259-b55c-f7bb640d6f89/linked_in_profile)
@@ -37,7 +38,7 @@
 <td width="50%">
 <h3 align="center">Vulnerable Active Directory Lab</h3>
 <div align="center">
-<a href="https://github.com/reatva/Vulnerable-Active-Directory-Lab" target="_blank"><img src="https://reatva.github.io/images/projects/adlab51.jpg" width="400" alt="Custom vulnerable ACtive Directory Environment"></a>
+<a href="https://github.com/reatva/Vulnerable-Active-Directory-Lab" target="_blank"><img src="https://adrianreatva.com/images/projects/AD/Diagram.jpg" width="400" alt="Custom vulnerable ACtive Directory Environment"></a>
 <p>
 <a href="https://github.com/reatva/Vulnerable-Active-Directory-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
 </p>
@@ -50,7 +51,7 @@
                <br>
 <h3 align="center">Weaponized Installer Lab</h3>
 <div align="center">                                       
-<a href="https://github.com/reatva/Weaponized-Installer-Lab" target="_blank"><img src="https://reatva.github.io/images/posts/weaponized_bg.webp" width="400" alt="Weaponized Installer Lab"></a>
+<a href="https://github.com/reatva/Weaponized-Installer-Lab" target="_blank"><img src="https://adrianreatva.com/images/projects/Weaponized/weaponized_bg.webp" width="400" alt="Weaponized Installer Lab"></a>
 <br>
 <p>
 <a href="https://github.com/reatva/Weaponized-Installer-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
@@ -66,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Vulnerability-Management-Lab</h3>
 <div align="center">
-<a href="https://github.com/reatva/Vulnerability-Management-Lab" target="_blank"><img src="https://reatva.github.io/images/posts/vulnerability.jpeg" width="400" alt="Vulnerability Management Lab"></a>
+<a href="https://github.com/reatva/Vulnerability-Management-Lab" target="_blank"><img src="https://adrianreatva.com/images/projects/VM/vulnerability.jpeg" width="400" alt="Vulnerability Management Lab"></a>
 <p>
 <a href="https://github.com/reatva/Vulnerability-Management-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
 </p>
@@ -79,7 +80,7 @@
                <br>
 <h3 align="center">Threat Hunting & Incident Response Lab</h3>
 <div align="center">                                       
-<a href="https://github.com/reatva/Threat-Hunting-Incident-Response-Lab" target="_blank"><img src="https://reatva.github.io/images/projects/threathunting.jpeg" width="400" alt="Weaponized Installer Lab"></a>
+<a href="https://github.com/reatva/Threat-Hunting-Incident-Response-Lab" target="_blank"><img src="https://adrianreatva.com/images/projects/ThreatHunting/threathunting.jpeg" width="400" alt="Weaponized Installer Lab"></a>
 <br>
 <p>
 <a href="https://github.com/reatva/Threat-Hunting-Incident-Response-Lab" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
