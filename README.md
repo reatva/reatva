@@ -7,7 +7,7 @@
 ✏️ Self taugh Cybersecurity student: Red and Blue team
 💻 CTF player (HacktTheBox & ProvingGrounds)
 📚 Constantly learning to keep developing my skills
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1xk95jx3UIlhH2RJpX04pe055eFoX8dN7yig1773w8WI/edit?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1wDmWvGA4QpFXRh1wRZAo-BMHF6ymgdVf/edit?usp=sharing&ouid=109914615350236433443&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 </pre>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Certificates**
 - [Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/1004bdad-589d-4ac9-924e-0a8551eed447/public_url)
