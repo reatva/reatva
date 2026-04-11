@@ -33,6 +33,21 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></img>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> Projects 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AWS Cloud Attack Chain - Codefinger Attack</h3>
+<div align="center">
+<a href="https://github.com/reatva/cloud-attack-labs/blob/main/labs/s3-sse-c-ransomware/README.md" target="_blank"><img src="https://adrianreatva.com/images/projects/cloudattack/cloud-ransomware.jpg"></a>
+<p>
+<a href="https://github.com/reatva/cloud-attack-labs/blob/main/labs/s3-sse-c-ransomware/README.md" target="_blank"><img src="https://img.shields.io/badge/READ%20ME-%23009639.svg?style=for-the-badge&logo=readme&logoColor=white"</img></a>
+</p>
+<p>Part of an ongoing series of open-source AWS attack labs built around real-world incidents and techniques. This lab is modeled on the Codefinger S3 SSE-C ransomware attack observed in January 2025. The goal is not to simulate a CTF challenge but to replicate the decision-making process of a real engagement</p>
+</div>
+                                                                                      
+</td>       
+
 <table>
 <tr>
 <td width="50%">
@@ -90,3 +105,4 @@
 </table>                                                                                 
 </div>
 <br>
+
