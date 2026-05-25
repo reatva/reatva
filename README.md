@@ -10,9 +10,10 @@
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1wDmWvGA4QpFXRh1wRZAo-BMHF6ymgdVf/edit?usp=sharing&ouid=109914615350236433443&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 </pre>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Certificates**
-- [Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/1004bdad-589d-4ac9-924e-0a8551eed447/public_url)
 - [Offenive Security Certified Professional (OSCP/OSCP+)](https://credentials.offsec.com/6826491e-6fae-4696-8ede-b667f788bd63#acc.PAwkzUyR)
+- [Certified Penetration Tester Specialist (CPTS)](https://www.credly.com/badges/1a15ab59-caf4-48e7-8daa-55ad9d362fe9/public_url)
 - [Certified Web Exploitation Specialist (CWES/CBBH)](https://www.credly.com/badges/c795f7e0-5baa-4ed8-9a0e-1eb02326ed13)
+- [Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/1004bdad-589d-4ac9-924e-0a8551eed447/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/e9b7d05e-1172-4259-b55c-f7bb640d6f89/linked_in_profile)
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/2W3TEQHZKWD9)
 
