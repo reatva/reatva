@@ -17,6 +17,9 @@
 - [CompTIA Security+](https://www.credly.com/badges/e9b7d05e-1172-4259-b55c-f7bb640d6f89/linked_in_profile)
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/2W3TEQHZKWD9)
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Security Advisories**
+- [Server-Side Template Injection leads to Remote Code Execution](https://github.com/Quenary/tugtainer/security/advisories/GHSA-g2cj-2x47-78vq)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Contact me**
 <a href="https://www.linkedin.com/in/adrianreatva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://github.com/reatva/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
