@@ -19,6 +19,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Security Advisories**
 - [Server-Side Template Injection leads to Remote Code Execution](https://github.com/Quenary/tugtainer/security/advisories/GHSA-g2cj-2x47-78vq)
+- [Stored XSS via SVG upload leading to Admin account takeover](https://adrianreatva.com/blog/posts/Blogger/xss-to-admin-account-take-over-in-pelican-panel)
+- [Cross-Node backup restore IDOR with server suspension bypass](https://adrianreatva.com/blog/posts/Blogger/cross-node-backup-restore-idor-in-pelican-panel)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> **Contact me**
 <a href="https://www.linkedin.com/in/adrianreatva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
